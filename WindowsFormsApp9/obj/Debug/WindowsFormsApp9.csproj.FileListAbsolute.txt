@@ -1,0 +1,10 @@
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb

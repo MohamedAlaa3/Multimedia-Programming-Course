@@ -1,0 +1,9 @@
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.exe.config
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.exe
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.pdb
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.csprojAssemblyReference.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.Properties.Resources.resources
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.csproj.GenerateResource.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.exe
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.pdb

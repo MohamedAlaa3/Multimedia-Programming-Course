@@ -1,0 +1,15 @@
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.exe
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.deps.json
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.json
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.dev.json
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csprojAssemblyReference.cache
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.GenerateResource.cache
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfoInputs.cache
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfo.cs
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.genruntimeconfig.cache
+C:\Users\Mohamed Alaa\source\repos\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.rect.resources

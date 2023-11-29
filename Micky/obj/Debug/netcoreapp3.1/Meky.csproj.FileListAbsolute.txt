@@ -1,0 +1,15 @@
+C:\Users\Mohamed Alaa\source\repos\Micky\bin\Debug\netcoreapp3.1\Meky.exe
+C:\Users\Mohamed Alaa\source\repos\Micky\bin\Debug\netcoreapp3.1\Meky.deps.json
+C:\Users\Mohamed Alaa\source\repos\Micky\bin\Debug\netcoreapp3.1\Meky.runtimeconfig.json
+C:\Users\Mohamed Alaa\source\repos\Micky\bin\Debug\netcoreapp3.1\Meky.runtimeconfig.dev.json
+C:\Users\Mohamed Alaa\source\repos\Micky\bin\Debug\netcoreapp3.1\Meky.dll
+C:\Users\Mohamed Alaa\source\repos\Micky\bin\Debug\netcoreapp3.1\Meky.pdb
+C:\Users\Mohamed Alaa\source\repos\Micky\obj\Debug\netcoreapp3.1\Meky.csprojAssemblyReference.cache
+C:\Users\Mohamed Alaa\source\repos\Micky\obj\Debug\netcoreapp3.1\WinFormsApp9.Form1.resources
+C:\Users\Mohamed Alaa\source\repos\Micky\obj\Debug\netcoreapp3.1\Meky.csproj.GenerateResource.cache
+C:\Users\Mohamed Alaa\source\repos\Micky\obj\Debug\netcoreapp3.1\Meky.AssemblyInfoInputs.cache
+C:\Users\Mohamed Alaa\source\repos\Micky\obj\Debug\netcoreapp3.1\Meky.AssemblyInfo.cs
+C:\Users\Mohamed Alaa\source\repos\Micky\obj\Debug\netcoreapp3.1\Meky.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Alaa\source\repos\Micky\obj\Debug\netcoreapp3.1\Meky.dll
+C:\Users\Mohamed Alaa\source\repos\Micky\obj\Debug\netcoreapp3.1\Meky.pdb
+C:\Users\Mohamed Alaa\source\repos\Micky\obj\Debug\netcoreapp3.1\Meky.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\obj\Debug\Chicken assignment.csprojAssemblyReference.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\obj\Debug\Chicken assignment.csproj.GenerateResource.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\obj\Debug\Chicken assignment.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb

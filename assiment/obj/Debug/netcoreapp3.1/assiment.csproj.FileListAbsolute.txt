@@ -1,0 +1,16 @@
+C:\Users\Mohamed Alaa\source\repos\assiment\bin\Debug\netcoreapp3.1\assiment.exe
+C:\Users\Mohamed Alaa\source\repos\assiment\bin\Debug\netcoreapp3.1\assiment.deps.json
+C:\Users\Mohamed Alaa\source\repos\assiment\bin\Debug\netcoreapp3.1\assiment.runtimeconfig.json
+C:\Users\Mohamed Alaa\source\repos\assiment\bin\Debug\netcoreapp3.1\assiment.runtimeconfig.dev.json
+C:\Users\Mohamed Alaa\source\repos\assiment\bin\Debug\netcoreapp3.1\assiment.dll
+C:\Users\Mohamed Alaa\source\repos\assiment\bin\Debug\netcoreapp3.1\assiment.pdb
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\assiment.csprojAssemblyReference.cache
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\assiment.Form1.resources
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\assiment.csproj.GenerateResource.cache
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\assiment.AssemblyInfoInputs.cache
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\assiment.AssemblyInfo.cs
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\assiment.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\assiment.dll
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\assiment.pdb
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\assiment.genruntimeconfig.cache
+C:\Users\Mohamed Alaa\source\repos\assiment\obj\Debug\netcoreapp3.1\WindowsFormsApp2.problems.resources

@@ -1,0 +1,9 @@
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\Mohamed Alaa\source\repos\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
